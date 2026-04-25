@@ -6,7 +6,8 @@ A multi-brand mobile phone analysis dashboard built with **Power BI**, analyzing
 
 ## Dashboard Preview
 
-![Mobile Specs Dashboard](dashboard_screenshot.png)
+!<img width="909" height="502" alt="Mobile Specs " src="https://github.com/user-attachments/assets/4afcf698-7387-4998-b4d2-b43908f6a0b6" />
+
 
 ---
 
@@ -60,7 +61,7 @@ Applied the following transformations in Power Query Editor:
 
 ---
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 
 | Visual | Description |
 |---|---|
@@ -74,7 +75,7 @@ Applied the following transformations in Power Query Editor:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Apple** has the highest average price (~₹96K)
 - **Mid Range** segment dominates with ~52% of all phones
@@ -108,7 +109,7 @@ Mobile-Specs-Dashboard/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository
 2. Open Power BI Desktop
@@ -122,13 +123,13 @@ Mobile-Specs-Dashboard/
 ## 👤 Author
 
 **Mohammad Sadique**
-- 🌐 Portfolio: [sadique-osman.github.io/portfolio](https://sadique-osman.github.io/portfolio)
-- 💼 LinkedIn: [linkedin.com/in/mohammad-sadique-1028ba2a1](https://linkedin.com/in/mohammad-sadique-1028ba2a1)
-- 🐙 GitHub: [github.com/Sadique-Osman](https://github.com/Sadique-Osman)
+- Portfolio: [sadique-osman.github.io/portfolio](https://sadique-osman.github.io/portfolio)
+- LinkedIn: [linkedin.com/in/mohammad-sadique-1028ba2a1](https://linkedin.com/in/mohammad-sadique-1028ba2a1)
+- GitHub: [github.com/Sadique-Osman](https://github.com/Sadique-Osman)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - 🏆 Deloitte Data Analytics Job Simulation — Forage (March 2026)
 - 🏆 Complete Data Analyst Bootcamp — Udemy (March 2026)
