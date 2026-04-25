@@ -6,7 +6,7 @@ A multi-brand mobile phone analysis dashboard built with **Power BI**, analyzing
 
 ## Dashboard Preview
 
-!<img width="909" height="502" alt="Mobile Specs " src="https://github.com/user-attachments/assets/4afcf698-7387-4998-b4d2-b43908f6a0b6" />
+<img width="909" height="502" alt="Mobile Specs " src="https://github.com/user-attachments/assets/4afcf698-7387-4998-b4d2-b43908f6a0b6" />
 
 
 ---
